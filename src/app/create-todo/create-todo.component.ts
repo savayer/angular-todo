@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {Todo} from "../app.component";
+import {Todo} from "../home/home.component";
 
 @Component({
   selector: 'app-create-todo',
